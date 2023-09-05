@@ -1,7 +1,7 @@
 #!bash
 # shellcheck disable=SC1090
 
-### rwxrob.tv clone of bashrc ###
+### rwxrob.tv clone of bashrc ### //exec bash -l
 
 case $- in
 *i*) ;; # interactive
